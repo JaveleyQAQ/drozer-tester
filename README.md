@@ -8,8 +8,13 @@ Bash script for automated testing of the drozer component used in penetration te
 
 ![image](https://github.com/JaveleyQAQ/drozer-tester/assets/132129852/9b1fab71-4c75-4eaf-9b68-c27d2adc680b)
 
+### ✅安装并运行
+```bash
+curl -LO https://raw.githubusercontent.com/JaveleyQAQ/drozer-tester/main/drozer-tester.sh && chmod +x drozer-tester.sh && ./drozer-tester.sh
+```
 
-🔥使用方法：
+### 🔥使用方法：
+
 
 - 扫描单个程序：
 ```bash
